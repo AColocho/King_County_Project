@@ -33,7 +33,6 @@ On the third iteration, bedroom, floors, condition, and grade were transform int
   
 **NOTICE:** R-squared can increase due to adding additional variables. Adjusted R-squared is a better measurement because it takes into account the impact of adding additional variables. However, in the previous models both R-squared and adjusted R-squared were equivalent, so R-squared was used.  
 
-## Benchmarking
 ### Mean Square Error
 In order to fully understand how accurate the model is, the square root of mean square error was taken.
 Train Error: 153937.83
